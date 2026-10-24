@@ -1,0 +1,10 @@
+# Build output
+bin/
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Sample data, written by samples\run.cmd
+samples/*.csv
+samples/cases.txt
